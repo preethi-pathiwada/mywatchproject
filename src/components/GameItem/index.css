@@ -1,0 +1,25 @@
+.game-list-item {
+  width: 100%;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.game-thumbnail {
+  width: 100%;
+  height: 200px;
+}
+
+.nav-link-gaming {
+  text-decoration: none;
+  width: 50%;
+  padding: 13px;
+}
+
+@media all and (min-width: 768px) {
+  .nav-link-gaming {
+    width: 30%;
+  }
+  .game-thumbnail {
+    height: 350px;
+  }
+}

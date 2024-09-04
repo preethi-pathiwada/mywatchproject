@@ -1,0 +1,19 @@
+.saved-videos-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.light-container {
+  background-color: #ffffff;
+}
+
+.dark-container {
+  background-color: #181818;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

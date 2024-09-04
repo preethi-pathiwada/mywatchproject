@@ -1,0 +1,12 @@
+.common-container {
+  overflow: scroll;
+}
+
+.gaming-list-container {
+  padding: 15px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
