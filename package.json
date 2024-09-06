@@ -1,7 +1,7 @@
 {
   "name": "nxt-watch",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
     "npm": ">=6"
