@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/preethi-pathiwada/mywatchproject.git/static/css/main.3c8f6ead.chunk.css",
-    "main.js": "/preethi-pathiwada/mywatchproject.git/static/js/main.5af68fe5.chunk.js",
-    "main.js.map": "/preethi-pathiwada/mywatchproject.git/static/js/main.5af68fe5.chunk.js.map",
-    "runtime-main.js": "/preethi-pathiwada/mywatchproject.git/static/js/runtime-main.a2f475a6.js",
-    "runtime-main.js.map": "/preethi-pathiwada/mywatchproject.git/static/js/runtime-main.a2f475a6.js.map",
-    "static/js/2.4b99cc21.chunk.js": "/preethi-pathiwada/mywatchproject.git/static/js/2.4b99cc21.chunk.js",
-    "static/js/2.4b99cc21.chunk.js.map": "/preethi-pathiwada/mywatchproject.git/static/js/2.4b99cc21.chunk.js.map",
-    "index.html": "/preethi-pathiwada/mywatchproject.git/index.html",
-    "static/css/main.3c8f6ead.chunk.css.map": "/preethi-pathiwada/mywatchproject.git/static/css/main.3c8f6ead.chunk.css.map",
-    "static/js/2.4b99cc21.chunk.js.LICENSE.txt": "/preethi-pathiwada/mywatchproject.git/static/js/2.4b99cc21.chunk.js.LICENSE.txt"
+    "main.css": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/css/main.3c8f6ead.chunk.css",
+    "main.js": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/js/main.5af68fe5.chunk.js",
+    "main.js.map": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/js/main.5af68fe5.chunk.js.map",
+    "runtime-main.js": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/js/runtime-main.0777f3bd.js",
+    "runtime-main.js.map": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/js/runtime-main.0777f3bd.js.map",
+    "static/js/2.f6a8062d.chunk.js": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/js/2.f6a8062d.chunk.js",
+    "static/js/2.f6a8062d.chunk.js.map": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/js/2.f6a8062d.chunk.js.map",
+    "index.html": "/https://github.com/preethi-pathiwada/mywatchproject.git/index.html",
+    "static/css/main.3c8f6ead.chunk.css.map": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/css/main.3c8f6ead.chunk.css.map",
+    "static/js/2.f6a8062d.chunk.js.LICENSE.txt": "/https://github.com/preethi-pathiwada/mywatchproject.git/static/js/2.f6a8062d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2f475a6.js",
-    "static/js/2.4b99cc21.chunk.js",
+    "static/js/runtime-main.0777f3bd.js",
+    "static/js/2.f6a8062d.chunk.js",
     "static/css/main.3c8f6ead.chunk.css",
     "static/js/main.5af68fe5.chunk.js"
   ]
