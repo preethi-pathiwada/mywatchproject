@@ -84,7 +84,7 @@ const Header = props => {
                             : 'menu-modal-container-light'
                         }
                       >
-                        <button className="close-button" onClick={close}>
+                        <button type="button" className="close-button" onClick={close} aria-label="close">
                           <IoClose
                             className={
                               isDark ? 'close-icon-dark' : 'close-icon-light'
